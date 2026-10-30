@@ -1,247 +1,245 @@
- <!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Pragadeeshwari+R+R+%F0%9F%91%8B;Software+Developer;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Building+Intelligent+Software+Solutions" alt="Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Pragadeeshwari%20R%20R&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="Profile banner"/>
 
-### Software Developer | AI/ML Enthusiast | Full-Stack Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Intelligent+Applications;Developing+Scalable+Backend+Solutions;Exploring+AI%2C+LLMs+%26+Automation;Turning+Ideas+Into+Real+Projects" alt="Animated introduction"/>
 
-<p>
+<br/>
+
 <a href="https://github.com/Pragadeeshwari02">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/pragadeeshwari-r-r-017494301/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:pragadeeshwarirajkumar@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-</p>
 
-<img src="https://komarev.com/ghpvc/?username=Pragadeeshwari02&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile Views"/>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Pragadeeshwari02&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 👋 About Me
 
-Hello! I'm **Pragadeeshwari R R**, a Computer Science and Engineering graduate passionate about developing intelligent applications and solving real-world problems through technology.
+I'm **Pragadeeshwari R R**, a Computer Science and Engineering professional passionate about software development, artificial intelligence, and building technology that solves real-world problems.
 
-I enjoy exploring the intersection of software engineering and artificial intelligence, from building backend services to integrating AI capabilities into practical applications.
+I enjoy transforming ideas into practical applications through backend engineering, full-stack development, and AI-powered solutions.
 
-- 💼 Currently working as a **Part-Time Software Developer at AIforBussiness**.
-- 🤖 Exploring Artificial Intelligence, Machine Learning, Generative AI, and LLM applications.
-- ⚙️ Interested in backend engineering, REST APIs, and intelligent automation.
-- 🌐 Building applications using Python, Flask, React, and Next.js.
-- 🗄️ Working with MongoDB and PostgreSQL.
-- 🧠 Exploring AI agents, multi-agent systems, and recommendation applications.
-- 🚀 Focused on continuous learning and developing practical software solutions.
+- 💼 **Currently:** Part-Time Software Developer at AIforBussiness.
+- 💻 **Development:** Python, Flask, React, Next.js, and REST APIs.
+- 🤖 **AI Focus:** Generative AI, LLM integrations, AI agents, and intelligent applications.
+- 🗄️ **Databases:** MongoDB and PostgreSQL.
+- ⚙️ **Interests:** Backend engineering, workflow automation, and recommendation systems.
+- 🌱 **Learning:** Continuously improving my software engineering and AI development skills.
 
-**My approach:** Learn → Build → Test → Improve → Repeat.
+<div align="center">
+
+**My philosophy**
+
+`Learn` → `Build` → `Test` → `Improve` → `Repeat`
+
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## 💻 My Technical Toolkit
 
-### 💻 Programming Languages
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css" alt="Programming Languages"/>
-</p>
+### Languages
 
-### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css&perline=8" alt="Programming languages"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css" alt="Frontend Technologies"/>
-</p>
+### Frontend Development
 
-### ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=react,nextjs&perline=8" alt="Frontend technologies"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=flask,nodejs,express" alt="Backend Technologies"/>
-</p>
+### Backend Development
 
-### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=flask,nodejs,express&perline=8" alt="Backend technologies"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres" alt="Databases"/>
-</p>
+### Databases
 
-### 🤖 AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=mongodb,postgres&perline=8" alt="Databases"/>
 
-<p>
-<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/LLM_Integration-2563EB?style=for-the-badge" alt="LLM Integration"/>
-<img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge" alt="AI Agents"/>
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vscode,postman,vite,electron&perline=8" alt="Developer tools"/>
+
+</div>
+
+### AI & Intelligent Technologies
+
+<p align="center">
+<img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/LLM_Integration-2563EB?style=for-the-badge" alt="LLM integration"/>
+<img src="https://img.shields.io/badge/AI_Agents-9333EA?style=for-the-badge" alt="AI agents"/>
 <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" alt="Groq"/>
 <img src="https://img.shields.io/badge/Together_AI-111827?style=for-the-badge" alt="Together AI"/>
-</p>
-
-### 🔧 Developer Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vscode,postman,vite,electron" alt="Developer Tools"/>
 </p>
 
 ---
 
 ## 💼 Professional Experience
 
-### Software Developer | AIforBussiness
+### Software Developer — AIforBussiness
 
-**Part-Time · 2026 – Present**
+<sub>Part-Time · 2026 – Present</sub>
 
 Contributing to software development initiatives involving AI-powered applications and modern web technologies.
 
-**Areas of contribution:**
+**Areas of work**
 
-- Backend development and API integration.
-- Implementation of AI-powered application functionality.
-- Intelligent automation and LLM integration.
-- Feature testing, debugging, and workflow validation.
-- Development and improvement of application features.
+- Backend development and REST API integration.
+- AI-powered application functionality.
+- LLM integration and intelligent automation.
+- Feature implementation, debugging, and testing.
+- Application workflow validation and improvement.
 
-*Company-specific implementation details and proprietary information are intentionally not disclosed.*
+<sub>Company-specific implementation details and proprietary information are intentionally not disclosed.</sub>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 01. 🚧 AI-Based Road Damage Detection & Smart Road Monitoring
+<div align="center">
+
+### Projects I've Built
+
+*Practical applications combining software engineering and intelligent technologies.*
+
+</div>
+
+### 01 · 🚧 AI-Based Road Damage Detection
 
 An intelligent road monitoring project designed to identify road damage and support better road maintenance and public safety.
 
-**Key Features**
+**Highlights**
 
-- Integrates a pretrained YOLO object detection model for road damage identification.
-- Uses an ESP32 and IR sensor-based inspection trigger.
-- Captures road images or video for damage analysis.
-- Generates damage reports to support road monitoring.
-- Includes an email alert workflow.
+- Road damage identification using a pretrained YOLO detection model.
+- ESP32 and IR sensor-based inspection trigger.
+- Image and video-based damage analysis.
+- Damage reporting workflow.
+- Email alert functionality.
 
-**Technologies:** `Python` `YOLO` `ESP32` `IR Sensors` `Computer Vision`
+**Technologies**
 
-**My Contribution:** System integration and implementation of the road damage monitoring workflow using an existing pretrained detection model.
+`Python` `YOLO` `Computer Vision` `ESP32` `IR Sensors`
 
-🔗 [View GitHub Repositories](https://github.com/Pragadeeshwari02?tab=repositories)
+**Contribution:** Integrated the pretrained detection model and implemented the road damage monitoring workflow.
+
+🔗 [Explore my GitHub repositories](https://github.com/Pragadeeshwari02?tab=repositories)
 
 ---
 
-### 02. 🎯 AI-Based Career Path & Course Recommendation System
+### 02 · 🎯 AI-Based Career Path & Course Recommendation
 
-An AI-based career guidance project designed to help users explore suitable career directions and learning opportunities.
+An AI-based career guidance project designed to help learners explore suitable career directions and learning opportunities.
 
-**Project Focus**
+**Highlights**
 
 - AI-assisted career guidance.
 - Career path exploration.
-- Personalized course recommendations.
-- Learning and skill development support.
-- Connecting career interests with learning opportunities.
+- Course recommendation.
+- Skill development support.
+- Personalized learning direction.
 
-**Technologies:** `Python` `Artificial Intelligence` `Recommendation Systems` `Web Development`
+**Focus Areas**
 
-🔗 [View GitHub Repositories](https://github.com/Pragadeeshwari02?tab=repositories)
+`Artificial Intelligence` `Recommendation Systems` `Career Guidance` `Web Development`
 
----
-
-## 🧠 Areas of Interest
-
-<p>
-<img src="https://img.shields.io/badge/Artificial_Intelligence-7C3AED?style=flat-square" alt="AI"/>
-<img src="https://img.shields.io/badge/Machine_Learning-2563EB?style=flat-square" alt="ML"/>
-<img src="https://img.shields.io/badge/Generative_AI-9333EA?style=flat-square" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/LLMs-0891B2?style=flat-square" alt="LLMs"/>
-<img src="https://img.shields.io/badge/AI_Agents-DB2777?style=flat-square" alt="AI Agents"/>
-<img src="https://img.shields.io/badge/Full_Stack_Development-0D9488?style=flat-square" alt="Full Stack"/>
-<img src="https://img.shields.io/badge/Backend_Engineering-475569?style=flat-square" alt="Backend"/>
-<img src="https://img.shields.io/badge/Computer_Vision-CA8A04?style=flat-square" alt="Computer Vision"/>
-<img src="https://img.shields.io/badge/Workflow_Automation-4F46E5?style=flat-square" alt="Automation"/>
-</p>
+🔗 [Explore my GitHub repositories](https://github.com/Pragadeeshwari02?tab=repositories)
 
 ---
 
-## 📊 GitHub Analytics
+## 🧩 What I'm Interested In
 
 <div align="center">
 
-### 🚀 GitHub Overview
+<img src="https://img.shields.io/badge/Artificial_Intelligence-7C3AED?style=flat-square" alt="Artificial Intelligence"/>
+<img src="https://img.shields.io/badge/Machine_Learning-2563EB?style=flat-square" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Generative_AI-9333EA?style=flat-square" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/Large_Language_Models-0891B2?style=flat-square" alt="LLMs"/>
+<img src="https://img.shields.io/badge/Multi_Agent_Systems-DB2777?style=flat-square" alt="Multi-agent systems"/>
+<img src="https://img.shields.io/badge/Full_Stack_Development-0D9488?style=flat-square" alt="Full stack"/>
+<img src="https://img.shields.io/badge/Backend_Engineering-475569?style=flat-square" alt="Backend engineering"/>
+<img src="https://img.shields.io/badge/Computer_Vision-CA8A04?style=flat-square" alt="Computer vision"/>
+<img src="https://img.shields.io/badge/Workflow_Automation-4F46E5?style=flat-square" alt="Workflow automation"/>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pragadeeshwari02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub Statistics"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pragadeeshwari02&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most Used Languages"/>
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
 
 ### 🔥 Contribution Streak
 
-<img src="https://streak-stats.demolab.com/?user=Pragadeeshwari02&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Pragadeeshwari02&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" width="75%" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+### 🐍 My Contribution Journey
+
+<img src="https://raw.githubusercontent.com/Pragadeeshwari02/Pragadeeshwari02/output/github-contribution-snake.svg" width="100%" alt="Animated contribution snake"/>
 
 </div>
 
+> My GitHub contribution calendar also displays my actual activity directly on my profile. Every commit, project, and improvement is part of my development journey.
+
 ---
 
-## 📈 My Contribution Activity
+## 🛤️ My Developer Journey
 
 <div align="center">
 
-### Every commit is a step forward! 🚀
+| Journey | Focus |
+|:---:|---|
+| 01 | Programming & Problem Solving |
+| 02 | Frontend Development |
+| 03 | Backend Engineering & APIs |
+| 04 | Database Management |
+| 05 | AI & Intelligent Applications |
+| 06 | Full-Stack Projects & Automation |
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pragadeeshwari02&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
+<br/>
 
-</div>
-
----
-
-## 🐍 Contribution Journey
-
-<div align="center">
-
-### Consistency Creates Progress!
-
-<img src="https://raw.githubusercontent.com/Pragadeeshwari02/Pragadeeshwari02/output/github-contribution-snake.svg" width="100%" alt="Animated GitHub Contribution Snake"/>
+**Always learning. Always building. Always improving.**
 
 </div>
 
 ---
 
-## 🧭 My Developer Journey
+## 🤝 Let's Connect
 
-| Stage | Focus Area | Technologies |
-|:---:|---|---|
-| 01 | Programming & Problem Solving | Python, JavaScript |
-| 02 | Frontend Development | React, Next.js |
-| 03 | Backend Engineering | Flask, REST APIs |
-| 04 | Database Management | MongoDB, PostgreSQL |
-| 05 | Artificial Intelligence | LLMs, AI Agents, ML |
-| 06 | Real-World Applications | Full-Stack, Automation |
-
-<div align="center">
-
-### 💡 Learn. Build. Innovate. Grow.
-
-</div>
-
----
-
-## 🤝 Let's Connect & Collaborate
-
-I'm always excited to connect with developers, explore innovative technologies, exchange ideas, and collaborate on meaningful projects.
+I'm open to connecting with developers, learning from the tech community, exploring opportunities, and collaborating on meaningful software projects.
 
 <div align="center">
 
 <a href="https://github.com/Pragadeeshwari02">
-<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
 <a href="https://www.linkedin.com/in/pragadeeshwari-r-r-017494301/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 <a href="mailto:pragadeeshwarirajkumar@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-### ✨ "Turning ideas into intelligent solutions, one project at a time."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=120&section=footer" width="100%" alt="Footer banner"/>
 
-**Thanks for visiting my profile! Happy Coding! 💙**
+### ✨ Turning ideas into intelligent solutions, one project at a time.
+
+**Thanks for visiting my profile! 💙**
 
 </div>
