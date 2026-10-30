@@ -164,27 +164,30 @@ To make career exploration and learning more personalized through intelligent re
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pragadeeshwari02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+### 🚀 My GitHub at a Glance
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragadeeshwari02&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Pragadeeshwari02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragadeeshwari02&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Pragadeeshwari02&theme=tokyonight&hide_border=true" />
+### 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com/?user=Pragadeeshwari02&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pragadeeshwari02&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pragadeeshwari02&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" />
 
 </div>
 
@@ -194,35 +197,28 @@ To make career exploration and learning more personalized through intelligent re
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pragadeeshwari02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Pragadeeshwari02&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10" width="100%" />
 
 </div>
 
 ---
 
-## 🎯 My Developer Journey
+## 🧭 My Developer Journey
 
-```text
-Computer Science & Engineering
-          |
-          v
-Programming & Problem Solving
-          |
-          v
-Full-Stack Development
-          |
-          v
-Backend Engineering & Databases
-          |
-          v
-Artificial Intelligence & ML
-          |
-          v
-Building Real-World Applications
-          |
-          v
-Continuous Learning & Growth
-```
+<div align="center">
+
+| Stage | Focus Area | Technologies |
+|:---:|---|---|
+| 01 | Programming & Problem Solving | Python, JavaScript |
+| 02 | Frontend Development | React, Next.js |
+| 03 | Backend Engineering | Flask, REST APIs |
+| 04 | Database Management | MongoDB, PostgreSQL |
+| 05 | Artificial Intelligence | LLMs, AI Agents, ML |
+| 06 | Real-World Applications | Full-Stack, Automation |
+
+### 💡 Learn. Build. Innovate. Grow.
+
+</div>
 
 ---
 
